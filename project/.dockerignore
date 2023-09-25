@@ -1,0 +1,5 @@
+/db-data
+Makefile
+docker-compose.yml
+swarm.yml
+.gitignore
