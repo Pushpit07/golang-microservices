@@ -15,3 +15,5 @@ Microservices in GoLang
 `docker service ls`
 
 `docker service scale go-microservices_listener-service=3`
+
+`go test -v .`
